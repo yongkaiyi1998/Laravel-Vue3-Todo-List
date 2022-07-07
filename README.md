@@ -1,6 +1,9 @@
 # Simple To do list using Laravel + Vue 3
 A to do list built with Vue.js 3 + Laravel 8
 
+
+![todolist](https://user-images.githubusercontent.com/61402813/177668317-3dc91249-517c-4235-9d10-b336b2289f6b.gif)
+
 ## Features
 - Vue 3/axios
 - Laravel
